@@ -1,0 +1,27 @@
+body {
+  background-color: #f1f3ff;
+}
+
+.main-konten {
+  background-color: #f1f3ff;
+}
+
+.carousel {
+  padding: 10px 0;
+}
+
+.navbar {
+  background-color: #f1f3ff;
+}
+
+.main-konten .navbar a.nav-link {
+  color: black;
+  margin-right: 20px;
+}
+
+.jumbotron {
+  background-color: #f1f3ff;
+}
+
+.main-konten .carousel-inner img {
+}
